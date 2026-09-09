@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1")(type "KiCad")(uri "C:/Users/user/Downloads/kicad_care_package/footprints.pretty")(options "")(descr ""))
+)
