@@ -1,7 +1,0 @@
-MCU = RP2040
-
-BOOTLOADER = rp2040
-
-VIA_ENABLE = yes
-
-LTO_ENABLE = yes
