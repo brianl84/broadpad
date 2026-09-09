@@ -132,8 +132,6 @@ The hackpad contains 10 physical keys mapped to the function keys **F13 through 
 | 9   | SW9    | F21         |
 | 10  | SW10   | F22         |
 
-![Key Layout](docs/images/keymap.png)
-
 ## Firmware
 
 This project uses [QMK Firmware](https://qmk.fm/).
